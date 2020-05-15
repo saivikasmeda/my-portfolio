@@ -1,2 +1,3 @@
-# my-portfolio
-this is my professional portfolio
+# Vikas portfolio
+
+This is my professional portfolio. It uses AWS and REACTJS
